@@ -8,7 +8,7 @@ The chatbot is designed to enhance the driving experience by delivering informat
 
 ## Project Description
 
-As a proof of concept, we will utilize pages from the car manual for the MG ZS, a compact SUV, stored in the HTML file `mg-zs-warning-messages.html`. This manual contains crucial information about various car warning messages and their associated actions.
+As a proof of concept, we will utilize pages from the car manual for the MG ZS. This manual contains crucial information about various car warning messages and their associated actions.
 
 ### Features
 
