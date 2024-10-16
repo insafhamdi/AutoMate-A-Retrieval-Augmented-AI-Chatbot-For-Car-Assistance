@@ -5,6 +5,7 @@
 **AutoMate** is a context-aware chatbot designed to integrate with car manuals, providing drivers with real-time guidance and support. By leveraging Large Language Models *(LLMs)* and Retrieval Augmented Generation *(RAG)*, AutoMate can effectively answer queries related to vehicle warning messages, their meanings, and recommended actions.
 The chatbot aims to enhance the driving experience by delivering information in a user-friendly manner, with potential integration with text-to-speech software to read responses aloud.
 
+
 ## Project Description
 
 As a proof of concept, we utilize pages from the car manual for the MG ZS. This manual contains crucial information about various car warning messages and their associated actions.
