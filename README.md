@@ -16,9 +16,9 @@ AutoMate employs *OpenAI GPT-3.5* for generating responses. The model has been f
 
 ## Features
 
-**Context-Aware Responses:** AutoMate retrieves relevant information from the car manual using RAG and generates concise answers based on user queries.
-**Integration with Text-to-Speech:** Future enhancements will allow the chatbot's responses to be read aloud, improving accessibility for drivers.
-**User-Friendly Interface:** The chatbot provides a simple interaction model for users to query warning messages and receive guidance.
+- **Context-Aware Responses:** AutoMate retrieves relevant information from the car manual using RAG and generates concise answers based on user queries.
+- **Integration with Text-to-Speech:** Future enhancements will allow the chatbot's responses to be read aloud, improving accessibility for drivers.
+- **User-Friendly Interface:** The chatbot provides a simple interaction model for users to query warning messages and receive guidance.
 
 ## RAG Architecture
 
